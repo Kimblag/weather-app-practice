@@ -43,7 +43,7 @@
 }
 
 .searchbar > button:hover{
-    color: whitesmoke;
+    color: rgb(25, 107, 155);
     background-color: var(--btn-color);
 }
 
